@@ -11,7 +11,8 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,react,nodejs,tailwind,threejs,unity,netlify,vercel,opencv,github,git" /><img src="https://img.shields.io/badge/MediaPipe-Google-blue?logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/PyDirectInput-Python-yellow?logo=python&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,react,nodejs,tailwind,threejs,unity,netlify,vercel,opencv,github,git" /><img src="https://img.shields.io/badge/MediaPipe-Google-blue?logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/PyDirectInput-Python-yellow?logo=python&logoColor=black" /> <span style="background:#3776AB;color:white;padding:6px 10px;border-radius:6px;">PyAutoGUI</span>
+
 
 
 </p>
