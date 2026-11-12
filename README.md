@@ -96,15 +96,10 @@
 
 <div align="center">
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANNON17-byte&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
 
-<br/>
 
----
 
 <div align="center">
 
